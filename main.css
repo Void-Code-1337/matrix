@@ -1,8 +1,7 @@
 body {
 	background-color: rgba(0,0,0,1);
 }
-#tutorial {
-	border: 1pt solid black;	
+#canv {
 	width: 98%;
 	height: 98%;
 	position: fixed;
