@@ -1,0 +1,12 @@
+body {
+	background-color: rgba(0,0,0,1);
+}
+#tutorial {
+	border: 1pt solid black;	
+	width: 98%;
+	height: 98%;
+	position: fixed;
+	left:1%;
+	top: 1%;
+	background-color: transparent;
+}
